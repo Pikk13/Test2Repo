@@ -1,0 +1,72 @@
+[
+	{
+		"Name": "Rick",
+		"Age": 4,
+		"HairColor": "Black",
+		"IsClever": false,
+		"Wildness": 25
+	},
+	{
+		"Name": "Nicholas",
+		"Age": 14,
+		"HairColor": "Peach",
+		"IsClever": false,
+		"Wildness": 25
+	},
+	{
+		"Name": "Maxwell",
+		"Age": 12,
+		"HairColor": "Rosewood",
+		"IsClever": false,
+		"Wildness": 34
+	},
+	{
+		"Name": "Maxwell",
+		"Age": 10,
+		"HairColor": "Blue",
+		"IsClever": true,
+		"Wildness": 61
+	},
+	{
+		"Name": "Clint",
+		"Age": 3,
+		"HairColor": "Lime",
+		"IsClever": false,
+		"Wildness": 74
+	},
+	{
+		"Name": "Elijah",
+		"Age": 5,
+		"HairColor": "Apricot",
+		"IsClever": true,
+		"Wildness": 38
+	},
+	{
+		"Name": "Henry",
+		"Age": 11,
+		"HairColor": "Carmine",
+		"IsClever": true,
+		"Wildness": 12
+	},
+	{
+		"Name": "Grace",
+		"Age": 11,
+		"HairColor": "Aqua",
+		"IsClever": true,
+		"Wildness": 69
+	},
+	{
+		"Name": "Stacy",
+		"Age": 11,
+		"HairColor": "Lavender",
+		"IsClever": false,
+		"Wildness": 62
+	},
+	{
+		"Name": "Bethany",
+		"Age": 12,
+		"HairColor": "Dark Red",
+		"IsClever": true,
+		"Wildness": 28
+	}	
+]
